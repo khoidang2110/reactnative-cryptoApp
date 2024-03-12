@@ -1,0 +1,59 @@
+import { StyleSheet } from "react-native";
+import { COLORS } from "../../utils/Const";
+
+export const style = StyleSheet.create({
+    cProfile:{
+        backgroundColor:COLORS.primary
+        ,flex:1,
+        padding:8
+    },
+    cTitle:{
+        fontSize:32,
+        color:COLORS.textColor,
+        fontWeight:'700'
+    },
+    cItem:{
+        flexDirection:'row',
+        justifyContent:'space-between'
+    },
+    cItemText:{
+        color:COLORS.textColor
+    },
+    cVerified:{
+        flexDirection:'row',
+        alignItems:'center'
+    },
+    cVerifiedIcon:{
+        tintColor:COLORS.textThirdary,
+        width:24,
+        height:24
+    },
+    cVerifiedText:{
+        color:COLORS.textThirdary
+    },
+    cItemSubText:{
+        color:COLORS.textSecondary,
+        fontSize:12
+    },
+    cItemIcon:{
+        width:24,
+        height:24,
+        tintColor:COLORS.textColor
+    },
+    cItemTitle:{
+        color:COLORS.textSecondary,
+        marginTop:24
+    },
+    cItemTextSetting:{
+        color:COLORS.textColor,
+        fontSize:16
+    },
+    cItemSubTextSetting:{
+        color:COLORS.textSecondary,
+        fontSize:16,
+        fontWeight:'700'
+    },
+    mt16:{
+        marginTop:16
+    }
+})

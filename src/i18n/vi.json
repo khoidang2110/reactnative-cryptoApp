@@ -1,0 +1,17 @@
+{
+    "translation":{
+        "account":"Tài Khoản",
+        "language":"Ngôn ngữ",
+        "app": "Ứng Dụng",
+        "launch screen": "Màn hình khởi động",
+        "appearance" :"Màu nền",
+        "payment currency" : "Đơn vị tiền tệ thanh toán",
+        "security": "Bảo mật",
+        "password setting": "Thiết lập mật khẩu",
+        "change password" : "Đổi mật khẩu",
+        "2-factor authentication" : "Xác thực hai bước",
+        "langSelect":"Việt Nam",
+        "profile":"Hồ Sơ",
+        "home":"Trang Chủ"
+    }
+}

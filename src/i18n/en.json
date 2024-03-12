@@ -1,0 +1,17 @@
+{
+    "translation":{
+        "account":"Account",
+        "language":"Language",
+        "app": "APP",
+        "launch screen": "Launch Screen",
+        "appearance" :"Appearance",
+        "payment currency" : "Payment Currency",
+        "security": "SECURITY",
+        "password setting": "Password Setting",
+        "change password" : "Change Password",
+        "2-factor authentication" : "2-Factor Authentication",
+        "langSelect":"English",
+        "profile":"Profil",
+        "home":"Home"
+    }
+}
